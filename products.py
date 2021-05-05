@@ -12,3 +12,5 @@ while True:
 	products.append(p)
 
 print(products)
+for p in products:
+	print(p[1])
